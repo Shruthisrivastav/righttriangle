@@ -1,5 +1,5 @@
 
-public class RightAngleTriangle {
+public class righttriangle {
 
     public static void main(String[] args) {
         int rows = 5; // Number of rows in the triangle (you can change this value)
